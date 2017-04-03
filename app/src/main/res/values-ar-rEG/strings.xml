@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد الالكتروني </string>
+    <string name="prompt_password"> كلم المرور</string>
+    <string name="action_sign_in">الولوج/تسجيل عدويه</string>
+    <string name="action_sign_in_short">تسجل الدخول</string>
+    <string name="error_invalid_email">هذا الايميل غير صالح </string>
+    <string name="error_invalid_password">كلمة المرور قصيرة جدا</string>
+    <string name="error_incorrect_password">كلمة المرور غير صالحه!</string>
+    <string name="error_field_required">هذا الحقل مطلوب</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="activity_details_abel">تفاصيل العنصر</string>
+    <string name="action_cart_label">العربه</string>
+
+
+    <string name="check_out">الدفع</string>
+    <string name="tv_header">التليفزيونات</string>
+    <string name="mobile_tab">هواتف محموله</string>
+    <string name="home_cat">الاساس</string>
+    <string name="shoes_cat">الاحذيه</string>
+    <string name="desc">الوصف</string>
+    <string name="desc_value">هذا المنتج رائع</string>
+    <string name="Add_to_cart">أضف الي العربه</string>
+    <string name="total">المجموع الكلي  :</string>
+    <string name="cart_activit_label">عربه التسوق</string>
+
+
+</resources>

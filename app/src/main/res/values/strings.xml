@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="activity_details_abel">Item Details</string>
+    <string name="action_cart_label">cart</string>
+    <string name="check_out">check out</string>
+    <string name="tv_header">Televisions</string>
+    <string name="mobile_tab">Mobile and Tablets</string>
+    <string name="home_cat">Home</string>
+    <string name="shoes_cat">Shoes</string>
+    <string name="desc">Description</string>
+    <string name="desc_value">This Item is Awesome !!</string>
+    <string name="Add_to_cart">Add to cart</string>
+    <string name="total">Total :</string>
+    <string name="cart_activit_label">cart</string>
+</resources>
